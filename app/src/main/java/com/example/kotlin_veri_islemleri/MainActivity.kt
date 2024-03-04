@@ -33,6 +33,8 @@ class MainActivity : AppCompatActivity() {
             binding.textView.text ="Yaşınız : ${kullanici_yas_Pref}"
         }
 
+        println("aaaaaaaaaaa")
+
     }
 
     // SharedPreferences - XML - Key- Value
@@ -58,4 +60,5 @@ class MainActivity : AppCompatActivity() {
 
         }
     }
+
 }
