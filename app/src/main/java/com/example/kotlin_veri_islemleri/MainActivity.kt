@@ -9,6 +9,7 @@ import com.example.kotlin_veri_islemleri.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    /*yorum*/
     private lateinit var binding: ActivityMainBinding
 
     lateinit var sharedPref : SharedPreferences
